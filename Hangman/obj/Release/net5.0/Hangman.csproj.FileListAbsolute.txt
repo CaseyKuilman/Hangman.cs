@@ -1,0 +1,16 @@
+C:\Users\casey\source\repos\Hangman\Hangman\bin\Release\net5.0\Hangman.exe
+C:\Users\casey\source\repos\Hangman\Hangman\bin\Release\net5.0\Hangman.deps.json
+C:\Users\casey\source\repos\Hangman\Hangman\bin\Release\net5.0\Hangman.runtimeconfig.json
+C:\Users\casey\source\repos\Hangman\Hangman\bin\Release\net5.0\Hangman.runtimeconfig.dev.json
+C:\Users\casey\source\repos\Hangman\Hangman\bin\Release\net5.0\Hangman.dll
+C:\Users\casey\source\repos\Hangman\Hangman\bin\Release\net5.0\ref\Hangman.dll
+C:\Users\casey\source\repos\Hangman\Hangman\bin\Release\net5.0\Hangman.pdb
+C:\Users\casey\source\repos\Hangman\Hangman\obj\Release\net5.0\Hangman.csproj.AssemblyReference.cache
+C:\Users\casey\source\repos\Hangman\Hangman\obj\Release\net5.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casey\source\repos\Hangman\Hangman\obj\Release\net5.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\casey\source\repos\Hangman\Hangman\obj\Release\net5.0\Hangman.AssemblyInfo.cs
+C:\Users\casey\source\repos\Hangman\Hangman\obj\Release\net5.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\casey\source\repos\Hangman\Hangman\obj\Release\net5.0\Hangman.dll
+C:\Users\casey\source\repos\Hangman\Hangman\obj\Release\net5.0\ref\Hangman.dll
+C:\Users\casey\source\repos\Hangman\Hangman\obj\Release\net5.0\Hangman.pdb
+C:\Users\casey\source\repos\Hangman\Hangman\obj\Release\net5.0\Hangman.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\casey\source\repos\Hangman\Hangman\bin\Release\net5.0\publish\Hangman.exe
+C:\Users\casey\source\repos\Hangman\Hangman\bin\Release\net5.0\publish\Hangman.dll
+C:\Users\casey\source\repos\Hangman\Hangman\bin\Release\net5.0\publish\Hangman.deps.json
+C:\Users\casey\source\repos\Hangman\Hangman\bin\Release\net5.0\publish\Hangman.runtimeconfig.json
+C:\Users\casey\source\repos\Hangman\Hangman\bin\Release\net5.0\publish\Hangman.pdb
